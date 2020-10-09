@@ -10,4 +10,4 @@
 * Through the use of python Dash libary to create a SPA (single page application)
 * Pandas data science libary will be used for data manipulation 
 * Git and Github will be used for version control and project tracking
-* Dash bootstrap libary will be used for the styling of the SPA
+* [Dash](https://dash.plotly.com/) bootstrap libary will be used for the styling of the SPA
