@@ -6,11 +6,11 @@ import dash_core_components as dcc
 import dash_html_components as html
 from src.navbar import navbar
 
+
 app = dash.Dash(external_stylesheets=[dbc.themes.DARKLY])
 
 app.layout = html.Div(children=[
-   html.Div(navbar)
-   ,
+    html.Div(navbar),
 ])
 
 if __name__ == "__main__":
