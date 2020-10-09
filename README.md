@@ -1,3 +1,4 @@
 # Weather-time #
 # Weather station data analysis #
-## I dont know what I'm doing ##
+## Whats the point? ##
+###### The Idea of this project is to take over a decades worth of weather data and place it into simple charts for easy analysis #######
